@@ -1,0 +1,17 @@
+{
+  "name": {
+    "minLength": 2,
+    "maxLength": 30
+  },
+  "email": {
+    "minLength": 2,
+    "maxLength": 60
+  },
+  "phone": {
+    "minLength": 8,
+    "maxLength": 14
+  },
+  "password": {
+    "minLength": 5
+  },
+}
